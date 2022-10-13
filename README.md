@@ -1,3 +1,3 @@
 # documentation
 
-This repository contains SWYL's documentations
+This repository contains SWYL's material
