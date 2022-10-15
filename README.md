@@ -6,4 +6,4 @@
 
 ## documentation
 
-This repository contains documentations and materials realted to SWYL's designing phase and SWYL's system architecture.
+This repository contains documentations and materials about to SWYL's designing phase and SWYL's system architecture.
