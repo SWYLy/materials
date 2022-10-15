@@ -1,3 +1,9 @@
-# documentation
+<p align="center">
+<br />
+<h1 align="center">SWYL - Support Who You Love</h1>
+<h5>Work in progress...</h5>
+</p>
 
-This repository contains SWYL's material
+## documentation
+
+This repository contains documentations and materials realted to SWYL's designing phase
